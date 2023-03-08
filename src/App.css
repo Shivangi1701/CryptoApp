@@ -46,14 +46,16 @@ a:hover{
 }
 
 .logo-container{
+    position: absolute;
     background-color: #001529;
-    display: flex;
+    top: 10px;
+    left: 10px;
     padding: 20px;
     align-items: center;
     width: 100%;
 }
 .logo{
-    margin:-33px 0 0 70px;
+    margin:-25px 0 0 70px;
 }
 .logo a{
    color: white;
